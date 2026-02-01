@@ -1,0 +1,1 @@
+import{_ as t,C as a,o,c as n,E as s}from"./chunks/framework.dPvfn4sS.js";const x=JSON.parse('{"title":"","description":"","frontmatter":{"layout":false},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),r={name:"index.md"};function c(d,i,m,p,_,l){const e=a("HomePage");return o(),n("div",null,[s(e)])}const u=t(r,[["render",c]]);export{x as __pageData,u as default};
